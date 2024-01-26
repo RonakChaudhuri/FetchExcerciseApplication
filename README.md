@@ -15,7 +15,7 @@ To run this application on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RonakChaudhuri/fetch-application.git
+   git clone https://github.com/RonakChaudhuri/FetchExcerciseApplication.git
 2. Open the project in Android Studio.
 3. Run the application on an Android emulator or physical device.
 
